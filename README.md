@@ -57,6 +57,6 @@ This project was created as a frontend practice project to improve my:
 - Add more interactive sections
 - Optimize performance and animations
 
----
+----
 Built with pure HTML & CSS to practice responsive and interactive frontend development 💻✨
 Author - Toufique Ahmed Khan 
